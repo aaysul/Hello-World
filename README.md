@@ -1,2 +1,3 @@
 # Hello-World
-Hello World repository creation for github usage guide
+This is afnan.
+I am a mechatronics engineer currently doing udacity Self-Driving car nanodegree.
